@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Andreina 👋
 
-<!--
-**AndreinaJc97/AndreinaJc97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer specializing in full-stack application development.
 
-Here are some ideas to get you started:
+I build enterprise applications using C#, .NET, Angular and SQL Server,
+with experience developing REST APIs, database solutions and
+business-oriented software systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Software Engineer
+- 🔹 C# / .NET
+- 🔹 Angular
+- 🔹 SQL Server
+- 🔹 REST APIs
+- 🔹 Entity Framework
+- 🔹 Azure DevOps
+- 🔹 Git / GitHub
+- 🌎 Based in the Dominican Republic
+
+## 🛠️ Tech Stack
+
+### Backend
+C# • .NET • ASP.NET Core • Entity Framework Core
+
+### Frontend
+Angular • TypeScript • HTML • CSS • JavaScript
+
+### Database
+SQL Server • T-SQL • PL/SQL
+
+### Tools
+Azure DevOps • Git • GitHub • Docker
+
+## 📌 Personal Projects (On the works)
+
+Papeboat
+Bunny Farmm unity RPG
+Goria
+
+## 📫 Connect with me
+
+andreinajc97@gmail.com
